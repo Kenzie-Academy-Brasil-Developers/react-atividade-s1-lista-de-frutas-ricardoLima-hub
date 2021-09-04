@@ -1,0 +1,18 @@
+.price {
+    font-size: 23pt;
+    font-weight: 700
+}
+
+ul li {
+    font-size: 20pt;
+}
+
+.btn {
+    width: 170px;
+    height: 80px;
+    font-size: 15pt;
+    color: #fff;
+    background-color: darkgreen;
+    border: none;
+    border-radius: 9px;
+}
